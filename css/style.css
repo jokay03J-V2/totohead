@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-self: center;
+    height: 100%;
+    width: 100%;
+}
+
+.buttons {
+    display: flex;
+}
+
+button {
+    width: 60px;
+}
+
+.reset {
+    display: flex;
+    justify-content: center;
+}
